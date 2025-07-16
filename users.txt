@@ -1,0 +1,4 @@
+admin admin123 admin
+drsharma docpass doctor
+drjahnavi doc123 doctor
+reception rec123 reception

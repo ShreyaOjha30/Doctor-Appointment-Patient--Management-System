@@ -1,0 +1,2 @@
+Name,Gender,Age,Doctor Name,Date,Time - Diagnosis - Treatment
+Shreya,Female,22,Dr. Sharma,2025-07-16,07:20 PM - Diagnosed with fever- Treatment: Advised rest and prescribed medication (Paracetamol)
